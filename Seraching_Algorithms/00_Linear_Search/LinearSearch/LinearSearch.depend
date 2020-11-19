@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1600894071 source:d:\embedded systems\github\basic_algorithms_and_algorithmanalysis\00_searching algorithms\00_linear_search\linearsearch\main.c
+	<stdio.h>
+	<stdlib.h>
+
